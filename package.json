@@ -1,0 +1,22 @@
+{
+  "name": "trunk-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poplava/trunk-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poplava/trunk-server/issues"
+  },
+  "homepage": "https://github.com/Poplava/trunk-server#readme",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
